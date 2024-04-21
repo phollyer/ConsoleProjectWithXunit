@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oQc232ZQGXJ1EQPg8BPiECEcSq98xcJwDiNx+ncFK8l56D5WXs9EzKe3q5EmxgHNnihsW5/bl6ll9JeWg9/0ug==",
+  "dgSpecHash": "ybyKzO37VonLIyy8PLXCq6AxI08s594WZ2bORN4q3yrdrs8H/EYWYoutbsRPmlZpJnviZrN6wDXVDM65hiqQQw==",
   "success": true,
   "projectFilePath": "/Users/code/Projects/C#/CLIs/ConsoleProjectWithXunit/ConsoleProjectWithXunit.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "/Users/code/.nuget/packages/xunit.assert/2.7.1/xunit.assert.2.7.1.nupkg.sha512",
     "/Users/code/.nuget/packages/xunit.core/2.7.1/xunit.core.2.7.1.nupkg.sha512",
     "/Users/code/.nuget/packages/xunit.extensibility.core/2.7.1/xunit.extensibility.core.2.7.1.nupkg.sha512",
-    "/Users/code/.nuget/packages/xunit.extensibility.execution/2.7.1/xunit.extensibility.execution.2.7.1.nupkg.sha512"
+    "/Users/code/.nuget/packages/xunit.extensibility.execution/2.7.1/xunit.extensibility.execution.2.7.1.nupkg.sha512",
+    "/Users/code/.nuget/packages/xunit.runner.visualstudio/2.5.8/xunit.runner.visualstudio.2.5.8.nupkg.sha512"
   ],
   "logs": []
 }
