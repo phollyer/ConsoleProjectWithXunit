@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleProjectWithXunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91d0768380dbb32bf2c65a73afb106da3290d64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fee664033236d1a335ccd4593d22641aa099284")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleProjectWithXunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleProjectWithXunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

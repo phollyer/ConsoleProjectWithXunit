@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ybyKzO37VonLIyy8PLXCq6AxI08s594WZ2bORN4q3yrdrs8H/EYWYoutbsRPmlZpJnviZrN6wDXVDM65hiqQQw==",
+  "dgSpecHash": "ApbvGW+jHaCqI4+6PFXo91zdZLtKIxIxb28vMBPapZBCR9sGv0+HJ7RDJ5PKRu8O74EIN+mOxT2HPbFNwcjIcg==",
   "success": true,
   "projectFilePath": "/Users/code/Projects/C#/CLIs/ConsoleProjectWithXunit/ConsoleProjectWithXunit.csproj",
   "expectedPackageFiles": [
+    "/Users/code/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/code/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/code/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/code/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/code/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/code/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
     "/Users/code/.nuget/packages/xunit/2.7.1/xunit.2.7.1.nupkg.sha512",
     "/Users/code/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
     "/Users/code/.nuget/packages/xunit.analyzers/1.12.0/xunit.analyzers.1.12.0.nupkg.sha512",
